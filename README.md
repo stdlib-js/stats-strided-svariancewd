@@ -385,7 +385,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dvariancewd`][@stdlib/stats/strided/dvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using Welford's algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanvariancewd`][@stdlib/stats/base/snanvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array ignoring NaN values and using Welford's algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/sstdevwd`][@stdlib/stats/base/sstdevwd]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using Welford's algorithm.</span>
--   <span class="package-name">[`@stdlib/stats-base/svariance`][@stdlib/stats/base/svariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/svariance`][@stdlib/stats/strided/svariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/variancewd`][@stdlib/stats/base/variancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array using Welford's algorithm.</span>
 
 </section>
@@ -482,7 +482,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/sstdevwd]: https://github.com/stdlib-js/stats-base-sstdevwd
 
-[@stdlib/stats/base/svariance]: https://github.com/stdlib-js/stats-base-svariance
+[@stdlib/stats/strided/svariance]: https://github.com/stdlib-js/stats-strided-svariance
 
 [@stdlib/stats/base/variancewd]: https://github.com/stdlib-js/stats-base-variancewd
 
